@@ -1,8 +1,8 @@
 # FDA-Food-Recall-Project
-Our project aims to unveil intricate patterns in FDA recall data through a comprehensive Statistical Analysis Plan. Leveraging the rich FDA Open Website data, we're poised to uncover impactful insights. Our primary goals encompass exploring recall trends across states, categorizing major recall types, and gaining deep understanding of recall reasons. 
+Our project focuses on analyzing FDA recall data. We want to find out important information about recalls. We'll look at which states have the most recalls, categorize the main reasons for recalls, and understand why recalls happen.
 
-To achieve this, we'll meticulously pre-process text data, including cleansing, stop word removal, and tokenization. Employing advanced techniques, we'll utilize Term Frequency-Inverse Document Frequency for vectorization, paving the way for insightful analysis. We'll delve into clustering and labelling to unveil hidden patterns within the recall reasons.
+We'll start by cleaning up the text data and removing unnecessary words. Then, we'll break down the text into smaller parts for analysis. We'll use a special method to understand which words are important in the recalls. Next, we'll group similar recalls together and give them labels to make things easier to understand.
 
-Our approach emphasizes inclusivity, encompassing the entire FDA recall dataset while applying rigorous exclusion criteria to ensure data quality. The final touch will involve creating interactive Tableau dashboards, designed for user-friendly exploration, enriched by visual storytelling to guide users through our findings.
+We'll look at all the data but only use the good parts for our analysis. We'll also make sure our graphs and charts are easy to use and understand. Our goal is to tell a clear and simple story with our data.
 
-This project promises to illuminate critical insights, contributing to better comprehension of FDA recall dynamics and facilitating informed decision-making.
+This project will help us learn more about FDA recalls and share useful information with others.
